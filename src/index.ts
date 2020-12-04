@@ -52,5 +52,10 @@ import {App} from './app/App';
 		} finally {
 			process.exit(1);
 		}
+
+
+		// await exports.stop();
+
+		process.exit(0);
 	}
 })();
