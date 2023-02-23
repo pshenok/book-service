@@ -46,7 +46,7 @@
     "randomstring": "^1.1.5",
     "reflect-metadata": "^0.1.13",
     "rpc": "git+https://github.com/pshenok/rpc.git#master",
-    "sequelize": "^5.14.0",
+    "sequelize": "^6.28.2",
     "sequelize-cli": "^5.5.1",
     "uuid": "^3.3.3"
   },
